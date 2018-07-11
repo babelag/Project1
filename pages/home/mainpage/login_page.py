@@ -1,4 +1,4 @@
-from base.HandyWrappers import SeleniumDriver
+from base.selenium2 import SeleniumDriver
 
 class LoginPage(SeleniumDriver):
 
@@ -42,4 +42,4 @@ class LoginPage(SeleniumDriver):
         self.enterEmail(email)
         self.enterPassword(password)
         self.clickLoginButton()
-        self.scrollUp()
+        self.webScroll()

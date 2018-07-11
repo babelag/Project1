@@ -11,11 +11,14 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="main_page_tabs_wrappers.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pages/home/mainpage/main_page_tabs_wrappers.py">
+      <file leaf-file-name="selenium2.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/base/selenium2.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="691">
-              <caret line="63" lean-forward="true" selection-start-line="63" selection-end-line="63" />
+            <state relative-caret-position="1692">
+              <caret line="101" selection-start-line="101" selection-end-line="101" />
+              <folding>
+                <element signature="e#0#43#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -23,8 +26,8 @@
       <file leaf-file-name="test_tabs_wrappers.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/tests/home/mainpage/test_tabs_wrappers.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="476">
-              <caret line="34" column="34" selection-start-line="34" selection-start-column="34" selection-end-line="34" selection-end-column="34" />
+            <state>
+              <caret selection-end-line="14" selection-end-column="61" />
               <folding>
                 <element signature="e#0#76#0" expanded="true" />
               </folding>
@@ -32,13 +35,52 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="selenium2.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/base/selenium2.py">
+      <file leaf-file-name="main_page_wrappers.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pages/home/mainpage/main_page_wrappers.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="994">
-              <caret line="203" column="35" lean-forward="true" selection-start-line="203" selection-start-column="35" selection-end-line="203" selection-end-column="35" />
+            <state relative-caret-position="90">
+              <caret line="6" column="32" selection-start-line="6" selection-start-column="32" selection-end-line="6" selection-end-column="32" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="main_footer_flex.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pages/home/mainpage/main_footer_flex.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1062">
+              <caret line="59" column="15" selection-start-line="59" selection-start-column="15" selection-end-line="59" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="test_footer_flex.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/tests/home/mainpage/test_footer_flex.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="558">
+              <caret line="31" lean-forward="true" selection-start-line="31" selection-end-line="31" />
               <folding>
-                <element signature="e#0#43#0" expanded="true" />
+                <element signature="e#0#63#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="login_page.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pages/home/mainpage/login_page.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="216">
+              <caret line="12" column="28" selection-start-line="12" selection-start-column="28" selection-end-line="12" selection-end-column="28" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="login_tests.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/tests/home/mainpage/login_tests.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="108">
+              <caret line="9" column="36" selection-start-line="9" selection-start-column="36" selection-end-line="9" selection-end-column="36" />
+              <folding>
+                <element signature="e#0#30#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -53,21 +95,20 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/tests/home/mainpage/login_tests.py" />
         <option value="$PROJECT_DIR$/pages/home/mainpage/mainpage_background.py" />
         <option value="$PROJECT_DIR$/tests/home/mainpage/mainPageBackgroundTest.py" />
-        <option value="$PROJECT_DIR$/pages/home/mainpage/login_page.py" />
         <option value="$PROJECT_DIR$/pages/home/mainpage/main_page_menu.py" />
         <option value="$PROJECT_DIR$/tests/home/mainpage/menu_test.py" />
         <option value="$PROJECT_DIR$/tests/home/mainpage/navigation_test.py" />
         <option value="$PROJECT_DIR$/base/webdriverfactory.py" />
-        <option value="$PROJECT_DIR$/pages/home/mainpage/main_page_navigation.py" />
         <option value="$USER_HOME$/Downloads/switch-to-window.py" />
-        <option value="$PROJECT_DIR$/tests/home/mainpage/test_navigation.py" />
-        <option value="$PROJECT_DIR$/pages/home/mainpage/main_page_wrappers.py" />
         <option value="$PROJECT_DIR$/pages/home/mainpage/main_page_what_we_offer.py" />
         <option value="$USER_HOME$/Downloads/3-teststatus.py" />
         <option value="$PROJECT_DIR$/base/TestStatus.py" />
@@ -78,15 +119,22 @@
         <option value="$USER_HOME$/Downloads/1-selenium-driver (1).py" />
         <option value="$APPLICATION_CONFIG_DIR$/scratches/scratch.py" />
         <option value="$PROJECT_DIR$/base/HandyWrappers.py" />
-        <option value="$PROJECT_DIR$/tests/home/mainpage/test_wrappers.py" />
+        <option value="$PROJECT_DIR$/pages/home/mainpage/main_page_tabs_wrappers.py" />
+        <option value="$PROJECT_DIR$/pages/home/mainpage/login_page.py" />
+        <option value="$PROJECT_DIR$/pages/home/mainpage/main_page_navigation.py" />
+        <option value="$PROJECT_DIR$/tests/home/mainpage/test_navigation.py" />
         <option value="$PROJECT_DIR$/base/selenium2.py" />
         <option value="$PROJECT_DIR$/tests/home/mainpage/test_tabs_wrappers.py" />
-        <option value="$PROJECT_DIR$/pages/home/mainpage/main_page_tabs_wrappers.py" />
+        <option value="$PROJECT_DIR$/pages/home/mainpage/main_page_wrappers.py" />
+        <option value="$PROJECT_DIR$/tests/home/mainpage/test_wrappers.py" />
+        <option value="$PROJECT_DIR$/pages/home/mainpage/main_footer_flex.py" />
+        <option value="$PROJECT_DIR$/tests/home/mainpage/test_footer_flex.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-8" />
+    <option name="x" value="218" />
+    <option name="y" value="18" />
     <option name="width" value="1400" />
     <option name="height" value="1000" />
   </component>
@@ -100,17 +148,44 @@
         <subPane>
           <expand>
             <path>
-              <item name="SOLWIT" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SOLWIT" type="462c0819:PsiDirectoryNode" />
+              <item name="Project1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Project1" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="SOLWIT" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Scratches and Consoles" type="1a2a3e82:ScratchProjectViewPane$MyProjectNode" />
+              <item name="Project1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Project1" type="462c0819:PsiDirectoryNode" />
+              <item name="pages" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="SOLWIT" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Scratches and Consoles" type="1a2a3e82:ScratchProjectViewPane$MyProjectNode" />
-              <item name="Scratches" type="d62648e6:ScratchProjectViewPane$MyRootNode" />
+              <item name="Project1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Project1" type="462c0819:PsiDirectoryNode" />
+              <item name="pages" type="462c0819:PsiDirectoryNode" />
+              <item name="home" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Project1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Project1" type="462c0819:PsiDirectoryNode" />
+              <item name="pages" type="462c0819:PsiDirectoryNode" />
+              <item name="home" type="462c0819:PsiDirectoryNode" />
+              <item name="mainpage" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Project1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Project1" type="462c0819:PsiDirectoryNode" />
+              <item name="tests" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Project1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Project1" type="462c0819:PsiDirectoryNode" />
+              <item name="tests" type="462c0819:PsiDirectoryNode" />
+              <item name="home" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Project1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Project1" type="462c0819:PsiDirectoryNode" />
+              <item name="tests" type="462c0819:PsiDirectoryNode" />
+              <item name="home" type="462c0819:PsiDirectoryNode" />
+              <item name="mainpage" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -120,16 +195,16 @@
   </component>
   <component name="PropertiesComponent">
     <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="Python" />
-    <property name="last_opened_file_path" value="$USER_HOME$/Downloads/mouse-hovering.py" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\hlewandx\Desktop\SOLWIT\tests\home\mainpage" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\hlewandx\Desktop\SOLWIT\pages\home" />
       <recent name="C:\Users\hlewandx\Desktop\SOLWIT\base" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\hlewandx\Desktop\SOLWIT\tests\home\mainpage" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -144,24 +219,19 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python tests.Unittests in test_tabs_wrappers.py">
-    <configuration name="scratch" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python tests.Unittests in test_footer_flex.py">
+    <configuration name="Unittests for test_wrappers.TestWrappers" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
       <module name="SOLWIT" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$APPLICATION_CONFIG_DIR$/scratches" />
-      <option name="IS_MODULE_SDK" value="false" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tests/home/mainpage" />
+      <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$APPLICATION_CONFIG_DIR$/scratches/scratch.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_wrappers.TestWrappers&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
     </configuration>
     <configuration name="Unittests for test_wrappers.TestWrappers.test_validation_englishFlagWrapper" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
       <module name="SOLWIT" />
@@ -176,7 +246,7 @@
       <option name="_new_target" value="&quot;test_wrappers.TestWrappers.test_validation_englishFlagWrapper&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
     </configuration>
-    <configuration name="Unittests in mainpage" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+    <configuration name="Unittests in test_footer_flex.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
       <module name="SOLWIT" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -186,7 +256,20 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;$PROJECT_DIR$/tests/home/mainpage&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/tests/home/mainpage/test_footer_flex.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+    </configuration>
+    <configuration name="Unittests in test_navigation.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="SOLWIT" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tests/home/mainpage" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/tests/home/mainpage/test_navigation.py&quot;" />
       <option name="_new_targetType" value="&quot;PATH&quot;" />
     </configuration>
     <configuration name="Unittests in test_tabs_wrappers.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
@@ -215,32 +298,19 @@
       <option name="_new_target" value="&quot;$PROJECT_DIR$/tests/home/mainpage/test_wrappers.py&quot;" />
       <option name="_new_targetType" value="&quot;PATH&quot;" />
     </configuration>
-    <configuration name="Unittests in tests" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
-      <module name="SOLWIT" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tests" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;$PROJECT_DIR$/tests&quot;" />
-      <option name="_new_targetType" value="&quot;PATH&quot;" />
-    </configuration>
     <list>
-      <item itemvalue="Python tests.Unittests in mainpage" />
-      <item itemvalue="Python tests.Unittests in test_wrappers.py" />
-      <item itemvalue="Python.scratch" />
+      <item itemvalue="Python tests.Unittests for test_wrappers.TestWrappers.test_validation_englishFlagWrapper" />
       <item itemvalue="Python tests.Unittests in test_tabs_wrappers.py" />
-      <item itemvalue="Python tests.Unittests in tests" />
+      <item itemvalue="Python tests.Unittests in test_navigation.py" />
+      <item itemvalue="Python tests.Unittests in test_wrappers.py" />
+      <item itemvalue="Python tests.Unittests in test_footer_flex.py" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python tests.Unittests in test_tabs_wrappers.py" />
-        <item itemvalue="Python tests.Unittests in tests" />
-        <item itemvalue="Python.scratch" />
+        <item itemvalue="Python tests.Unittests in test_footer_flex.py" />
         <item itemvalue="Python tests.Unittests in test_wrappers.py" />
+        <item itemvalue="Python tests.Unittests in test_tabs_wrappers.py" />
+        <item itemvalue="Python tests.Unittests in test_navigation.py" />
       </list>
     </recent_temporary>
   </component>
@@ -258,50 +328,51 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="Unittests_for_test_wrappers_TestWrappers_test_validation_englishFlagWrapper - 2018.07.04 at 13h 44m 25s.xml">
-      <configuration name="Unittests for test_wrappers.TestWrappers.test_validation_englishFlagWrapper" configurationId="tests" />
+    <history-entry file="Unittests_for_test_wrappers_TestWrappers - 2018.07.11 at 12h 39m 38s.xml">
+      <configuration name="Unittests for test_wrappers.TestWrappers" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_for_test_wrappers_TestWrappers_test_validation_englishFlagWrapper - 2018.07.04 at 13h 45m 43s.xml">
-      <configuration name="Unittests for test_wrappers.TestWrappers.test_validation_englishFlagWrapper" configurationId="tests" />
+    <history-entry file="Unittests_in_test_wrappers_py - 2018.07.11 at 12h 40m 13s.xml">
+      <configuration name="Unittests in test_wrappers.py" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_for_test_wrappers_TestWrappers_test_validation_englishFlagWrapper - 2018.07.04 at 13h 46m 12s.xml">
-      <configuration name="Unittests for test_wrappers.TestWrappers.test_validation_englishFlagWrapper" configurationId="tests" />
+    <history-entry file="Unittests_in_test_wrappers_py - 2018.07.11 at 12h 41m 27s.xml">
+      <configuration name="Unittests in test_wrappers.py" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_for_test_wrappers_TestWrappers_test_validation_englishFlagWrapper - 2018.07.04 at 13h 46m 34s.xml">
-      <configuration name="Unittests for test_wrappers.TestWrappers.test_validation_englishFlagWrapper" configurationId="tests" />
+    <history-entry file="Unittests_in_test_footer_flex_py - 2018.07.11 at 13h 38m 15s.xml">
+      <configuration name="Unittests in test_footer_flex.py" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_for_test_wrappers_TestWrappers_test_validation_englishFlagWrapper - 2018.07.04 at 13h 47m 19s.xml">
-      <configuration name="Unittests for test_wrappers.TestWrappers.test_validation_englishFlagWrapper" configurationId="tests" />
+    <history-entry file="Unittests_in_test_footer_flex_py - 2018.07.11 at 13h 41m 02s.xml">
+      <configuration name="Unittests in test_footer_flex.py" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_for_test_wrappers_TestWrappers_test_validation_englishFlagWrapper - 2018.07.04 at 13h 48m 19s.xml">
-      <configuration name="Unittests for test_wrappers.TestWrappers.test_validation_englishFlagWrapper" configurationId="tests" />
+    <history-entry file="Unittests_in_test_footer_flex_py - 2018.07.11 at 13h 41m 27s.xml">
+      <configuration name="Unittests in test_footer_flex.py" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_in_test_tabs_wrappers_py - 2018.07.04 at 14h 03m 33s.xml">
-      <configuration name="Unittests in test_tabs_wrappers.py" configurationId="tests" />
+    <history-entry file="Unittests_in_test_footer_flex_py - 2018.07.11 at 13h 41m 28s.xml">
+      <configuration name="Unittests in test_footer_flex.py" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_in_test_tabs_wrappers_py - 2018.07.04 at 14h 07m 24s.xml">
-      <configuration name="Unittests in test_tabs_wrappers.py" configurationId="tests" />
+    <history-entry file="Unittests_in_test_footer_flex_py - 2018.07.11 at 13h 41m 50s.xml">
+      <configuration name="Unittests in test_footer_flex.py" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_in_test_tabs_wrappers_py - 2018.07.04 at 14h 08m 43s.xml">
-      <configuration name="Unittests in test_tabs_wrappers.py" configurationId="tests" />
+    <history-entry file="Unittests_in_test_footer_flex_py - 2018.07.11 at 13h 44m 56s.xml">
+      <configuration name="Unittests in test_footer_flex.py" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_in_test_tabs_wrappers_py - 2018.07.04 at 14h 10m 42s.xml">
-      <configuration name="Unittests in test_tabs_wrappers.py" configurationId="tests" />
+    <history-entry file="Unittests_in_test_footer_flex_py - 2018.07.11 at 13h 47m 15s.xml">
+      <configuration name="Unittests in test_footer_flex.py" configurationId="tests" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1176" extended-state="6" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18020834" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1296875" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
       <window_info anchor="bottom" id="Python Console" order="7" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32987747" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3089172" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Terminal" order="8" />
       <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39915073" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -320,6 +391,16 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/base/selenium2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3248">
+          <caret line="203" column="35" lean-forward="true" selection-start-line="203" selection-start-column="35" selection-end-line="203" selection-end-column="35" />
+          <folding>
+            <element signature="e#0#43#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$APPLICATION_HOME_DIR$/helpers/pycharm/teamcity/unittestpy.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="4242">
@@ -334,13 +415,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/base/HandyWrappers.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1358">
-          <caret line="101" column="22" selection-start-line="101" selection-start-column="22" selection-end-line="101" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/base/HandyWrappers.py" />
     <entry file="file://$PROJECT_DIR$/pages/home/mainpage/login_page.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="518">
@@ -376,13 +451,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/base/HandyWrappers.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1358">
-          <caret line="101" column="22" selection-start-line="101" selection-start-column="22" selection-end-line="101" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/base/HandyWrappers.py" />
     <entry file="file://$PROJECT_DIR$/pages/home/mainpage/login_page.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="518">
@@ -418,51 +487,16 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/Downloads/5-login-page.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="476">
-          <caret line="36" column="4" lean-forward="true" selection-start-line="36" selection-start-column="4" selection-end-line="44" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$USER_HOME$/Downloads/5-login-page.py" />
     <entry file="file://$PROJECT_DIR$/tests/home/mainpage/mainPageBackgroundTest.py" />
-    <entry file="file://C:/Python/Lib/unittest/loader.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="33" selection-start-line="33" selection-end-line="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://C:/Python/Lib/unittest/suite.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="312">
-          <caret line="258" selection-start-line="258" selection-end-line="258" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://C:/Python/Lib/unittest/loader.py" />
+    <entry file="file://C:/Python/Lib/unittest/suite.py" />
     <entry file="file://$APPLICATION_HOME_DIR$/helpers/pycharm/teamcity/unittestpy.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="831">
           <caret line="303" selection-start-line="303" selection-end-line="303" />
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pages/home/mainpage/login_page.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="518">
-          <caret line="37" selection-start-line="37" selection-end-line="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tests/home/mainpage/login_tests.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="28">
-          <caret line="2" column="26" selection-start-line="2" selection-start-column="26" selection-end-line="2" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/Downloads/4-conftest.py">
-      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$USER_HOME$/Downloads/5-webdriverfactory.py">
       <provider selected="true" editor-type-id="text-editor">
@@ -472,13 +506,7 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/base/webdriverfactory.py" />
-    <entry file="file://$USER_HOME$/Downloads/5-selenium-driver.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="560">
-          <caret line="46" lean-forward="true" selection-start-line="46" selection-end-line="46" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$USER_HOME$/Downloads/5-selenium-driver.py" />
     <entry file="file://$USER_HOME$/Downloads/switch-to-window.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="140">
@@ -487,74 +515,13 @@
       </provider>
     </entry>
     <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_1.py" />
-    <entry file="file://$PROJECT_DIR$/pages/home/mainpage/main_page_navigation.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="14">
-          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="6" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://C:/Python/Lib/unittest/case.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="604" selection-start-line="604" selection-end-line="604" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tests/home/mainpage/test_navigation.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="17" column="8" selection-start-line="17" selection-start-column="8" selection-end-line="17" selection-end-column="56" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/Downloads/3-teststatus.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="47" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/Downloads/7-login-tests (1).py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$USER_HOME$/Downloads/7-util.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="129" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/Downloads/6-basepage.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="42" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/Downloads/7-login-page (1).py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-51" />
-      </provider>
-    </entry>
-    <entry file="file://C:/Python/Lib/traceback.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="176" column="4" selection-start-line="176" selection-start-column="4" selection-end-line="176" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/base/TestStatus.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="154">
-          <caret line="11" column="16" lean-forward="true" selection-start-line="11" selection-start-column="16" selection-end-line="11" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://C:/Python/Lib/unittest/case.py" />
+    <entry file="file://$USER_HOME$/Downloads/3-teststatus.py" />
+    <entry file="file://$USER_HOME$/Downloads/7-util.py" />
+    <entry file="file://$USER_HOME$/Downloads/6-basepage.py" />
+    <entry file="file://$USER_HOME$/Downloads/7-login-page (1).py" />
+    <entry file="file://C:/Python/Lib/traceback.py" />
     <entry file="file://$PROJECT_DIR$/pages/home/mainpage/SELENIUM 2.py" />
-    <entry file="file://$USER_HOME$/Downloads/1-selenium-driver.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch.py">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -562,13 +529,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/Downloads/1-selenium-driver (1).py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="425">
-          <caret line="106" column="3" lean-forward="true" selection-start-line="106" selection-start-column="3" selection-end-line="118" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$USER_HOME$/Downloads/1-selenium-driver (1).py" />
     <entry file="file://$APPLICATION_HOME_DIR$/helpers/pycharm/_jb_unittest_runner.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="406">
@@ -576,67 +537,96 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/base/HandyWrappers.py">
+    <entry file="file://$PROJECT_DIR$/base/HandyWrappers.py" />
+    <entry file="file://$USER_HOME$/Downloads/mouse-hovering.py" />
+    <entry file="file://$PROJECT_DIR$/base/TestStatus.py" />
+    <entry file="file://$PROJECT_DIR$/base/base_page.py" />
+    <entry file="file://$PROJECT_DIR$/base/util.py" />
+    <entry file="file://$PROJECT_DIR$/pages/home/mainpage/main_page_tabs_wrappers.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="509">
-          <caret line="126" selection-start-line="126" selection-end-line="126" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pages/home/mainpage/main_page_wrappers.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$USER_HOME$/Downloads/mouse-hovering.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="294">
-          <caret line="21" column="19" selection-start-line="21" selection-start-column="19" selection-end-line="21" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/base/util.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-835">
-          <caret line="25" column="25" lean-forward="true" selection-start-line="25" selection-start-column="25" selection-end-line="25" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/base/base_page.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="490">
-          <caret line="37" column="34" lean-forward="true" selection-start-line="37" selection-start-column="34" selection-end-line="37" selection-end-column="34" />
+        <state relative-caret-position="802">
+          <caret line="63" selection-start-line="63" selection-end-line="63" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/tests/home/mainpage/test_wrappers.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="504">
-          <caret line="36" column="67" lean-forward="true" selection-start-line="36" selection-start-column="67" selection-end-line="36" selection-end-column="67" />
+        <state relative-caret-position="324">
+          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pages/home/mainpage/main_page_tabs_wrappers.py">
+    <entry file="file://$PROJECT_DIR$/pages/home/mainpage/main_page_navigation.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="691">
-          <caret line="63" lean-forward="true" selection-start-line="63" selection-end-line="63" />
+        <state relative-caret-position="633">
+          <caret line="47" selection-start-line="47" selection-end-line="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/home/mainpage/test_navigation.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="369">
+          <caret line="44" lean-forward="true" selection-start-line="44" selection-end-line="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/base/selenium2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1692">
+          <caret line="101" selection-start-line="101" selection-end-line="101" />
+          <folding>
+            <element signature="e#0#43#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/home/mainpage/login_page.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="12" column="28" selection-start-line="12" selection-start-column="28" selection-end-line="12" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/home/mainpage/login_tests.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="9" column="36" selection-start-line="9" selection-start-column="36" selection-end-line="9" selection-end-column="36" />
+          <folding>
+            <element signature="e#0#30#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/home/mainpage/main_page_wrappers.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="32" selection-start-line="6" selection-start-column="32" selection-end-line="6" selection-end-column="32" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/tests/home/mainpage/test_tabs_wrappers.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="476">
-          <caret line="34" column="34" selection-start-line="34" selection-start-column="34" selection-end-line="34" selection-end-column="34" />
+        <state>
+          <caret selection-end-line="14" selection-end-column="61" />
           <folding>
             <element signature="e#0#76#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/base/selenium2.py">
+    <entry file="file://$PROJECT_DIR$/pages/home/mainpage/main_footer_flex.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="994">
-          <caret line="203" column="35" lean-forward="true" selection-start-line="203" selection-start-column="35" selection-end-line="203" selection-end-column="35" />
+        <state relative-caret-position="1062">
+          <caret line="59" column="15" selection-start-line="59" selection-start-column="15" selection-end-line="59" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/home/mainpage/test_footer_flex.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="558">
+          <caret line="31" lean-forward="true" selection-start-line="31" selection-end-line="31" />
           <folding>
-            <element signature="e#0#43#0" expanded="true" />
+            <element signature="e#0#63#0" expanded="true" />
           </folding>
         </state>
       </provider>

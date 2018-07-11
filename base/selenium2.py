@@ -99,7 +99,7 @@ class SeleniumDriver():
         except:
             print("Cannot click on the element with locator: " + locator +
                           " locatorType: " + locatorType)
-            print_stack()
+
 
     def mouseHower(self, locator="", locatorType="xpath", element=None):
         try:
@@ -107,7 +107,7 @@ class SeleniumDriver():
                 element = self.getElement(locator, locatorType)
             self.actions = ActionChains(self.driver)
             self.actions.move_to_element(element).perform()
-            print("Mouse Hovered on element " + locator +
+            print("Mouse hovered on element " + locator +
                             " locatorType: " + locatorType)
         except:
             print("Cannot mouse hover on element " + locator +

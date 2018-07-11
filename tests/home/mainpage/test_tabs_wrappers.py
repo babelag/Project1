@@ -6,7 +6,7 @@ class TestWrappers(unittest.TestCase):
 
     @classmethod
     def setUpClass(self):
-        self.driver = webdriver.Chrome()
+        self.driver = webdriver.Chrome(executable_path="C:\\TestFiles\\chromedriver.exe")
         baseURL = 'https://www.solwit.com/'
         self.driver.get(baseURL)
         self.driver.implicitly_wait(3)

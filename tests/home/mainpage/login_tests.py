@@ -1,6 +1,6 @@
 from selenium import webdriver
 from selenium.webdriver.common.by import By
-from pages.home.login_page import LoginPage
+from pages.home.mainpage.login_page import LoginPage
 import unittest
 
 class LoginTests(unittest.TestCase):

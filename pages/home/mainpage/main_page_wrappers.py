@@ -1,4 +1,4 @@
-from base.HandyWrappers import SeleniumDriver
+from base.selenium2 import SeleniumDriver
 import time
 
 class MainPageWrappers(SeleniumDriver):
