@@ -101,7 +101,7 @@ class SeleniumDriver():
                           " locatorType: " + locatorType)
 
 
-    def mouseHower(self, locator="", locatorType="xpath", element=None):
+    def mouseHover(self, locator="", locatorType="xpath", element=None):
         try:
             if locator:  # This means if locator is not empty
                 element = self.getElement(locator, locatorType)

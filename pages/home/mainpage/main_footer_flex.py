@@ -55,10 +55,20 @@ class MainFooterFlex(SeleniumDriver):
 
      def verifyAgreementElementDisplayed(self):
           result = self.isElementDisplayed(self._agreement)
+          if result is not None:
+               print("Element is displayed")
+          else:
+               print("Element displayed fail")
+          self.screenShot("elementdisplayed")
           return result
 
      def verifyMessageSuccessText(self):
           result = self.isElementPresent(self._success_message_element)
+          if result is not None:
+               print("Send meassage succesful")
+          else:
+               print("Send message fail")
+          self.screenShot("resultmessage")
           return result
 
 
